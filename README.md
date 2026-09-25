@@ -110,16 +110,6 @@ en méthodologie **Agile / Scrum**.
 
 ---
 
-## 🎓 Formation & distinctions
-
-- 🎓 **Master en Génie Logiciel** (en cours), Université Iba Der Thiam de Thiès
-- 🎓 **Licence en Informatique**, option Génie Logiciel, UIDT Thiès
-- 📱 **Certificat Développement Mobile**, Programme FORCE-N (2024)
-- 🏆 **Lauréat Hackathon IIBS LAMB TECH 2024**, catégorie Génie Logiciel
-- ✅ **15+ projets** livrés avec succès en freelance
-
----
-
 ## 📊 Statistiques GitHub
 
 <p align="center">
