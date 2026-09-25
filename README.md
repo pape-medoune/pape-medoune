@@ -19,56 +19,9 @@
 
 <br />
 
-<table align="center">
-<tr>
-<td valign="middle">
-
-```text
-                  ▓▓          ▓▓
-        ▓▓▓▓        ▓▓      ▓▓
-            ▓▓  ██████████████
-              ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
-        ▓▓▓▓██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
-      ▓▓    ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓
-            ██▓▓▓▓░░░░▓▓░░░░▓▓░░██  ▓▓
-          ▓▓██░░▓▓░░░░▓▓░░░░▓▓░░██  ▓▓
-        ▓▓  ██░░▓▓▓▓▓▓▓▓░░░░▓▓▓▓██  ▓▓
-          ██░░░░░░██::▓▓░░░░██::██
-          ██░░░░░░░░░░▓▓░░░░░░░░██
-            ██░░░░░░░░░░░░░░░░░░██
-            ██░░░░░░░░░░████░░░░██
-            ██░░░░░░░░░░░░░░░░░░██
-            ██░░░░░░░░░░░░░░░░░░██
-            ██░░░░░░░░██████░░░░██
-            ██░░░░░░░░░░░░░░░░░░██
-            ██░░░░░░░░░░░░░░░░██
-            ██$$░░░░██████████
-            ██░░$$░░██
-            ██░░░░$$██
-```
-
-</td>
-<td valign="middle">
-
-```yaml
-pape-medoune@github:~$ whoami
-
-name:     Mouhamedoune FALL
-role:     Développeur Full-Stack Web & Mobile
-now:
-  - Ingénieur Logiciel   @ IUT de Thiès
-  - Dév. Full-Stack      @ Synapse
-  - Co-fondateur, Flutter @ AnourSchool
-focus:    Systèmes d'information universitaires
-exp:      3+ ans
-study:    Master Génie Logiciel @ UIDT Thiès
-langs:    [Wolof, Français, Anglais]
-motto:    "Digitaliser, simplifier, livrer."
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/whoami.svg" width="820" alt="Avatar ASCII de pape-medoune et carte whoami" />
+</p>
 
 ---
 
