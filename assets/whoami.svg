@@ -419,17 +419,14 @@
 <text x="191.6" y="424" fill="#FFD43B">$</text>
 <text x="200.0" y="424" fill="#E6EDF3">█</text>
 <text x="208.4" y="424" fill="#E6EDF3">█</text>
-<text x="391" y="136" xml:space="preserve"><tspan fill="#3FB950">pape-medoune@github:~</tspan><tspan fill="#8B949E">$</tspan><tspan fill="#E6EDF3"> whoami</tspan></text>
-<text x="391" y="154" xml:space="preserve"></text>
-<text x="391" y="172" xml:space="preserve"><tspan fill="#36BCF7">name:</tspan><tspan fill="#E6EDF3">     Mouhamedoune FALL</tspan></text>
-<text x="391" y="190" xml:space="preserve"><tspan fill="#36BCF7">role:</tspan><tspan fill="#E6EDF3">     Développeur Full-Stack Web &amp; Mobile</tspan></text>
-<text x="391" y="208" xml:space="preserve"><tspan fill="#36BCF7">now:</tspan><tspan fill="#E6EDF3"></tspan></text>
-<text x="391" y="226" xml:space="preserve"><tspan fill="#B34FD1">  -</tspan><tspan fill="#E6EDF3"> Ingénieur Logiciel   @ IUT de Thiès</tspan></text>
-<text x="391" y="244" xml:space="preserve"><tspan fill="#B34FD1">  -</tspan><tspan fill="#E6EDF3"> Dév. Full-Stack      @ Synapse</tspan></text>
-<text x="391" y="262" xml:space="preserve"><tspan fill="#B34FD1">  -</tspan><tspan fill="#E6EDF3"> Co-fondateur, Flutter @ AnourSchool</tspan></text>
-<text x="391" y="280" xml:space="preserve"><tspan fill="#36BCF7">focus:</tspan><tspan fill="#E6EDF3">    Systèmes d'information universitaires</tspan></text>
-<text x="391" y="298" xml:space="preserve"><tspan fill="#36BCF7">exp:</tspan><tspan fill="#E6EDF3">      3+ ans</tspan></text>
-<text x="391" y="316" xml:space="preserve"><tspan fill="#36BCF7">study:</tspan><tspan fill="#E6EDF3">    Master Génie Logiciel @ UIDT Thiès</tspan></text>
-<text x="391" y="334" xml:space="preserve"><tspan fill="#36BCF7">langs:</tspan><tspan fill="#A5D6FF">    [Wolof, Français, Anglais]</tspan></text>
-<text x="391" y="352" xml:space="preserve"><tspan fill="#36BCF7">motto:</tspan><tspan fill="#A5D6FF">    "Digitaliser, simplifier, livrer."</tspan></text>
+<text x="391" y="163" xml:space="preserve"><tspan fill="#3FB950">pape-medoune@github:~</tspan><tspan fill="#8B949E">$</tspan><tspan fill="#E6EDF3"> whoami</tspan></text>
+<text x="391" y="181" xml:space="preserve"></text>
+<text x="391" y="199" xml:space="preserve"><tspan fill="#36BCF7">name:</tspan><tspan fill="#E6EDF3">     Mouhamedoune FALL</tspan></text>
+<text x="391" y="217" xml:space="preserve"><tspan fill="#36BCF7">role:</tspan><tspan fill="#E6EDF3">     Développeur Full-Stack Web &amp; Mobile</tspan></text>
+<text x="391" y="235" xml:space="preserve"><tspan fill="#36BCF7">now:</tspan><tspan fill="#E6EDF3"></tspan></text>
+<text x="391" y="253" xml:space="preserve"><tspan fill="#B34FD1">  -</tspan><tspan fill="#E6EDF3"> Ingénieur Logiciel &amp; DevOps @ Marketing SAMBE</tspan></text>
+<text x="391" y="271" xml:space="preserve"><tspan fill="#36BCF7">focus:</tspan><tspan fill="#E6EDF3">    Systèmes d'information universitaires</tspan></text>
+<text x="391" y="289" xml:space="preserve"><tspan fill="#36BCF7">exp:</tspan><tspan fill="#E6EDF3">      3+ ans</tspan></text>
+<text x="391" y="307" xml:space="preserve"><tspan fill="#36BCF7">langs:</tspan><tspan fill="#A5D6FF">    [Wolof, Français, Anglais]</tspan></text>
+<text x="391" y="325" xml:space="preserve"><tspan fill="#36BCF7">motto:</tspan><tspan fill="#A5D6FF">    "Digitaliser, simplifier, livrer."</tspan></text>
 </svg>
