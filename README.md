@@ -78,36 +78,30 @@ Je conçois et déploie des **systèmes d'information académiques** de bout en 
 portails étudiants, admissions, inscriptions pédagogiques, délibérations et génération de PV.
 Mon terrain de jeu : **Laravel**, **PostgreSQL**, **Redis**, **GitLab CI/CD** et **Flutter**, en méthodologie **Agile / Scrum**.
 
-- 🏫 **[iut.uidt.sn](https://iut.uidt.sn)** : 10+ modules en production, **2 000+ utilisateurs actifs**
-- ⚡ **−70 %** de délais de traitement grâce à la digitalisation de la chaîne académique
-- 🚀 **+40 %** de performances via l'optimisation et le cache Redis
-- 🏆 **Lauréat du Hackathon IIBS LAMB TECH 2024** (Génie Logiciel)
-
 ---
 
-## 💼 Expérience
+## ✨ Ce que je fais
 
-| Poste | Organisation | Période |
-| :--- | :--- | :--- |
-| **Ingénieur Logiciel, Full-Stack** | IUT de Thiès | Févr. 2025 → aujourd'hui |
-| **Développeur Full-Stack Web & Mobile** | Synapse | Nov. 2025 → aujourd'hui |
-| **Actionnaire & Développeur Flutter** | AnourSchool (EdTech) | Août 2025 → aujourd'hui |
-| **Développeur Contractuel** | Teqlab, Thiès | Janv. 2025 → Mars 2025 |
-| **Développeur Full-Stack Web & Mobile** | Digita, Thiès | Oct. 2023 → Oct. 2024 |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🏛️<br/>Systèmes académiques</h3>
+      <p align="center">Portails étudiants, admissions, inscriptions, délibérations et PV, pensés pour le vrai fonctionnement d'une université.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️<br/>Web & API</h3>
+      <p align="center">Back-ends Laravel robustes, API REST, cache et files Redis, déploiement continu avec GitLab CI/CD et Docker.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📱<br/>Mobile</h3>
+      <p align="center">Applications Flutter soignées et performantes, connectées à des back-ends sécurisés (SSO, OAuth2, JWT).</p>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🚀 Projets phares
-
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **SI académique IUT** | Portails étudiant et candidat, admission, délibérations, paramétrage, multi-tenant | Laravel · PostgreSQL · Redis · Docker |
-| **DIGIPAY** | Passerelle de paiement sécurisée, 50 000 $/mois de transactions | Laravel · API REST |
-| **CRM Quantum** | Gestion de 1 000+ clients, tableau de bord analytique | Laravel · PostgreSQL |
-| **VisioCraft** | Application temps réel | React · Node.js · WebSockets · Redis |
-| **BomaCal** | Reconnaissance alimentaire et calcul de calories par IA | Flutter · IA/ML |
-| **SwiftPay / SwiftPos** | Transferts chiffrés et paiement NFC | Laravel · Flutter |
-| **DIGITASN** | Refonte web, +60 % d'engagement utilisateur | Angular |
+<p align="center">
+  <em>« Digitaliser, simplifier, livrer : du code propre au service de vrais utilisateurs. »</em>
+</p>
 
 ---
 
