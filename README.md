@@ -125,8 +125,24 @@ en méthodologie **Agile / Scrum**.
     <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=10" alt="Bases de données" /></td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & outils</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,gitlab,git,github,jira&perline=10" alt="DevOps" /></td>
+    <td align="center"><b>DevOps & CI/CD</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,linux,nginx,bash&perline=10" alt="DevOps" /><br />
+      <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+      <img src="https://img.shields.io/badge/D%C3%A9ploiement_automatis%C3%A9-8E0E8E?style=flat-square&logo=rocket&logoColor=white" alt="Déploiement automatisé" />
+      <img src="https://img.shields.io/badge/Redis_cache_%26_queues-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis cache et queues" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Outils & méthodes</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,jira,postman,vscode&perline=10" alt="Outils" /><br />
+      <img src="https://img.shields.io/badge/Agile_%2F_Scrum-36BCF7?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile / Scrum" />
+      <img src="https://img.shields.io/badge/Taiga-4DC8A8?style=flat-square&logo=taiga&logoColor=white" alt="Taiga" />
+      <img src="https://img.shields.io/badge/Code_review-24292E?style=flat-square&logo=github&logoColor=white" alt="Code review" />
+      <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Sécurité</b></td>
