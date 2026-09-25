@@ -74,9 +74,9 @@ motto:    "Digitaliser, simplifier, livrer."
 
 ## 👨🏾‍💻 À propos
 
-Je conçois et déploie des **systèmes d'information académiques** de bout en bout :
-portails étudiants, admissions, inscriptions pédagogiques, délibérations et génération de PV.
-Mon terrain de jeu : **Laravel**, **PostgreSQL**, **Redis**, **GitLab CI/CD** et **Flutter**, en méthodologie **Agile / Scrum**.
+Développeur Full-Stack Web & Mobile, je conçois des applications fiables, performantes et faciles à faire évoluer,
+de la base de données jusqu'à l'interface. J'aime les architectures claires, le code lisible et les livraisons régulières,
+en méthodologie **Agile / Scrum**.
 
 ---
 
@@ -85,16 +85,16 @@ Mon terrain de jeu : **Laravel**, **PostgreSQL**, **Redis**, **GitLab CI/CD** et
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🏛️<br/>Systèmes académiques</h3>
-      <p align="center">Portails étudiants, admissions, inscriptions, délibérations et PV, pensés pour le vrai fonctionnement d'une université.</p>
-    </td>
-    <td width="33%" valign="top">
       <h3 align="center">⚙️<br/>Web & API</h3>
-      <p align="center">Back-ends Laravel robustes, API REST, cache et files Redis, déploiement continu avec GitLab CI/CD et Docker.</p>
+      <p align="center">Back-ends robustes et API REST bien conçues, avec une attention particulière à la performance et à la sécurité.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">📱<br/>Mobile</h3>
-      <p align="center">Applications Flutter soignées et performantes, connectées à des back-ends sécurisés (SSO, OAuth2, JWT).</p>
+      <p align="center">Applications mobiles soignées et fluides, pensées pour une expérience utilisateur simple et agréable.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀<br/>DevOps & qualité</h3>
+      <p align="center">Intégration et déploiement continus, conteneurisation, tests et documentation pour des livraisons sereines.</p>
     </td>
   </tr>
 </table>
