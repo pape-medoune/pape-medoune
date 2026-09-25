@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Vues%20du%20profil&color=8E0E8E&style=for-the-badge&abbreviated=true" alt="pape-medoune" /> </p>
+<p align="center"> <img height="40" src="https://komarev.com/ghpvc/?username=pape-medoune&label=Vues%20du%20profil&color=8E0E8E&style=for-the-badge&abbreviated=true" alt="pape-medoune" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8E0E8E,100:36BCF7&text=Mouhamedoune%20FALL&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20Web%20%26%20Mobile&descSize=18&descAlignY=58" alt="Mouhamedoune FALL" />
