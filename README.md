@@ -25,39 +25,6 @@
 
 ---
 
-## 👨🏾‍💻 À propos
-
-Développeur Full-Stack Web & Mobile, je conçois des applications fiables, performantes et faciles à faire évoluer,
-de la base de données jusqu'à l'interface. J'aime les architectures claires, le code lisible et les livraisons régulières,
-en méthodologie **Agile / Scrum**.
-
----
-
-## ✨ Ce que je fais
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">⚙️<br/>Web & API</h3>
-      <p align="center">Back-ends robustes et API REST bien conçues, avec une attention particulière à la performance et à la sécurité.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📱<br/>Mobile</h3>
-      <p align="center">Applications mobiles soignées et fluides, pensées pour une expérience utilisateur simple et agréable.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🚀<br/>DevOps & qualité</h3>
-      <p align="center">Intégration et déploiement continus, conteneurisation, tests et documentation pour des livraisons sereines.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <em>« Digitaliser, simplifier, livrer : du code propre au service de vrais utilisateurs. »</em>
-</p>
-
----
-
 ## 🛠️ Stack technique
 
 <table>
